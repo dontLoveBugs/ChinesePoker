@@ -1,2 +1,3 @@
 # ChinesePoker
-# ChinesePoker
+* 安卓版斗地主游戏
+* 实现了随机发牌 随机选地主 提示 悔牌等功能
